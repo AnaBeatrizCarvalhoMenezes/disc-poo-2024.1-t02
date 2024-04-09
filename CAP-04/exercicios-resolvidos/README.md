@@ -18,8 +18,8 @@
 8. Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação.
 
 Menu de opções:
-1. Somar dois números.
-2. Raiz quadrada de um número.
+a) Somar dois números.
+b) Raiz quadrada de um número.
 
 9. Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
 
@@ -31,13 +31,13 @@ Menu de opções:
   
 13.Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com restrições, como salário negativo.
 - Menu de opções:
-1. Imposto
-2. Novo salário
-3. Classificação
+### Imposto
+### Novo salário
+### Classificação
 - Digite a opção desejada.
-1. Na opção 1: receber o salário de um funcionário, calcular e mostrar o valor do imposto;
-2. Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor do novo salário;
-3. Na opção 3: receber o salário de um funcionário e mostrar sua classificação.
+- a) Na opção 1: receber o salário de um funcionário, calcular e mostrar o valor do imposto;
+- b) Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor do novo salário;
+- c) Na opção 3: receber o salário de um funcionário e mostrar sua classificação.
    
 14. Faça um programa que receba o salário inicial de um funcionário, calcule e mostre o novo salário, acrescido de bonificação e de auxílio escola.
   
@@ -67,7 +67,7 @@ a receber do funcionário de acordo com as regras a seguir:
   
 20. Faça um programa que receba:
 
--  O código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, isto é, um número inteiro entre 1 e 10.
+- O código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, isto é, um número inteiro entre 1 e 10.
 - O peso do produto em quilos.
 - O código do país de origem, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 1 e 3.
 
