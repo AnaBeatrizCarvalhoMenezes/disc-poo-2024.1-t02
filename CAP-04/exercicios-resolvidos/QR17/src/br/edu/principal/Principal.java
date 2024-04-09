@@ -5,7 +5,7 @@ public class Principal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double a=0, b=0, c=0, delta = 0, x1, x2;
-        System.out.println("Este código resolve e escreve as duas raízes reais de uma equação de primeiro grau.");
+        System.out.println("Este código resolve e escreve as duas raízes reais de uma equação de segundo grau.");
         System.out.println("Escreva a seguir o primeiro número (a):");
         a = sc.nextDouble();
         
