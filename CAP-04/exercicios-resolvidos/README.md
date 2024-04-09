@@ -31,9 +31,9 @@ Menu de opções:
   
 13. Faça um programa que apresente o menu a seguir, permita ao usuário escolher a opção desejada, receba os dados necessários para executar a operação e mostre o resultado. Verifique a possibilidade de opção inválida e não se preocupe com restrições, como salário negativo.
 - Menu de opções:
-### Imposto
-### Novo salário
-### Classificação
+#### Imposto
+#### Novo salário
+#### Classificação
 - Digite a opção desejada.
 - a) Na opção 1: receber o salário de um funcionário, calcular e mostrar o valor do imposto;
 - b) Na opção 2: receber o salário de um funcionário, calcular e mostrar o valor do novo salário;
