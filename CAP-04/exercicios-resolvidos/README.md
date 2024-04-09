@@ -18,8 +18,8 @@
 8. Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação.
 
 Menu de opções:
-a) Somar dois números.
-b) Raiz quadrada de um número.
+- a) Somar dois números.
+- b) Raiz quadrada de um número.
 
 9. Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: DD/MM/AAAA – mês por extenso e hora:minuto.
 
