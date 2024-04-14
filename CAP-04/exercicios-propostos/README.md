@@ -7,14 +7,16 @@
 
 13- Faça um programa que receba o preço de um produto, calcule e mostre, de acordo com as tabelas a seguir, o novo preço e a classificação:
 
-| TABELA 1 — PERCENTUAL DE AUMENTO | Preço           | %   |
-|----------------------------------|-----------------|-----|
+### TABELA 1 — PERCENTUAL DE AUMENTO
+| Preço                            | %               |
+|----------------------------------|-----------------|
 | Até R$ 50,00                     | 5               |     
 | Entre R$ 50,00 e R$ 100,00       | 10              |     
 | Acima de R$ 100,00               | 15              |     
 
-| TABELA 2 — CLASSIFICAÇÕES        | Novo Preço      | Classificação  |
-|----------------------------------|-----------------|----------------|
+### TABELA 2 — CLASSIFICAÇÕES 
+| Novo Preço                       | Classificação   |
+|----------------------------------|-----------------|
 | Até R$ 80,00                     | Barato          |     
 | Entre R$ 80,00 e R$ 120,00       | Normal          |     
 | Entre R$ 120,00 e R$ 200,00      | Caro            |     
