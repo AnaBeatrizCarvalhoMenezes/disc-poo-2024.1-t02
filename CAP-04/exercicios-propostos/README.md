@@ -1,7 +1,7 @@
 # Exercícios propostos do capítulo 4 do livro de Fundamentos da Programação da matéria de POO de JAVA
 
 ## Enunciados das questões:
-- 3) Faça um programa que receba dois números e mostre o menor.
+- 3º Faça um programa que receba dois números e mostre o menor.
 
 - 7) Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso ele não tenha direito ao aumento.
 
