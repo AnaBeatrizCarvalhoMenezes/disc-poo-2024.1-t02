@@ -1,11 +1,11 @@
 # Exercícios propostos do capítulo 4 do livro de Fundamentos da Programação da matéria de POO de JAVA
 
 ## Enunciados das questões:
-- 3º Faça um programa que receba dois números e mostre o menor.
+3. Faça um programa que receba dois números e mostre o menor.
 
-- 7) Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso ele não tenha direito ao aumento.
+7. Uma empresa decide dar um aumento de 30% aos funcionários com salários inferiores a R$ 500,00. Faça um programa que receba o salário do funcionário e mostre o valor do salário reajustado ou uma mensagem, caso ele não tenha direito ao aumento.
 
-- 13) Faça um programa que receba o preço de um produto, calcule e mostre, de acordo com as tabelas a seguir, o novo preço e a classificação:
+13. Faça um programa que receba o preço de um produto, calcule e mostre, de acordo com as tabelas a seguir, o novo preço e a classificação:
 
 | TABELA 1 — PERCENTUAL DE AUMENTO | Preço           | %   |
 |----------------------------------|-----------------|-----|
@@ -20,14 +20,14 @@
 | Entre R$ 120,00 e R$ 200,00      | Caro            |     
 | Maior que R$ 200,00              | Muito caro      |     
 
-- 15) Uma agência bancária possui dois tipos de investimentos, conforme o quadro a seguir. Faça um programa que receba o tipo de investimento e seu valor, calcule e mostre o valor corrigido após um mês de investimento, de acordo com o tipo de investimento.
+15. Uma agência bancária possui dois tipos de investimentos, conforme o quadro a seguir. Faça um programa que receba o tipo de investimento e seu valor, calcule e mostre o valor corrigido após um mês de investimento, de acordo com o tipo de investimento.
 
 | Tipo                    | Descrição             | Rendimento Mensal |
 |-------------------------|-----------------------|-------------------|
 | 1                       | Poupança              | 3%                |
 | 2                       | Fundos de renda fixa  | 4%                |
 
-- 23) Faça um programa que receba:
+23. Faça um programa que receba:
 
 -- O código do produto comprado; e
 -- A quantidade comprada do produto.
