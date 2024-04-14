@@ -130,14 +130,12 @@ Os juros e a quantidade de parcelas seguem a tabela:
 | Até 20         |              | A         | R$ 2,00            |
 |                |              | L         | R$ 3,00            |
 |                |              | V         | R$ 4,00            |
-| Entre 20 e 50  |              | S         | R$ 6,00            |
-|                |              | N         | R$ 0,00            |
-| Maior que 50  |              | S         |                    |
-|                |              | A         | R$ 5,00            |
+| Entre 20 e 50  |       S      |           | R$ 6,00            |
+|                |       N      |           | R$ 0,00            |
+| Maior que 50   |       S      | A         | R$ 5,00            |
 |                |              | L         | R$ 2,00            |
 |                |              | V         | R$ 4,00            |
-|                |              | N         |                    |
-|                |              | A ou V    | R$ 0,00            |
+|                |       N      | A ou V    | R$ 0,00            |
 |                |              | L         | R$ 1,00            |
 
 O imposto calculado de acordo com as regras a seguir:
